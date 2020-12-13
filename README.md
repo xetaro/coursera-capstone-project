@@ -1,6 +1,6 @@
 # coursera-capstone-project
 
-##The battle of neighborhoods  in Toronto
+## The battle of neighborhoods  in Toronto
 
 ### Introduction
 
