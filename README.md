@@ -50,8 +50,7 @@ Where would we go in Toronto to have the best experience?
 ### Analysis
 
 After clearning the data we can performe some analysis.
-
-Explore Neighborhoods in Toronto
+Explore Neighborhoods in Toronto.
 
 ### Discussion
 As we can see in the cluster analysis, the first corresponds to the area for tourists with many small restaurants and cafes.
